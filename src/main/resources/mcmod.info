@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cinematicrec",
+  "name": "Cinematic Auto Recorder",
+  "description": "Press F1: the camera flies to beautiful places and structures, records short clips and merges them into one vertical video with C418 music.",
+  "version": "0.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "assets/cinematicrec/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
